@@ -1,0 +1,40 @@
+[ 2019-01-09T15:53:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName//dbway/
+ERR: 无法加载控制器:Api
+
+[ 2019-01-09T15:55:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName//dbway/
+ERR: 参数错误或者未定义:dbway
+
+[ 2019-01-09T15:58:05+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+NOTIC: D方法实例化没找到模型类Admin\ModelModel
+
+[ 2019-01-09T15:58:48+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+NOTIC: D方法实例化没找到模型类Admin\ModelModel
+
+[ 2019-01-09T15:59:05+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+NOTIC: D方法实例化没找到模型类Admin\ModelModel
+
+[ 2019-01-09T16:00:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+NOTIC: D方法实例化没找到模型类Admin\ModelModel
+
+[ 2019-01-09T16:01:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+NOTIC: D方法实例化没找到模型类Admin\ModelModel
+
+[ 2019-01-09T16:23:20+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DB_NAME')'' at line 1
+ [ SQL语句 ] : select count(*) from information_schema.COLUMNS where table_name='User' and table_schema = 'C('DB_NAME')';
+
+[ 2019-01-09T16:23:45+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+ERR: 1054:Unknown column 'User' in 'where clause'
+ [ SQL语句 ] : select count(*) from information_schema.COLUMNS where table_name=User and table_schema = shop;
+
+[ 2019-01-09T16:23:48+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+ERR: 1054:Unknown column 'User' in 'where clause'
+ [ SQL语句 ] : select count(*) from information_schema.COLUMNS where table_name=User and table_schema = shop;
+
+[ 2019-01-09T18:51:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+ERR: Think\Model:I方法不存在！
+
+[ 2019-01-09T20:04:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Api/api/tbName/User/dbway/add
+ERR: 1062:Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sw_user` (`user_id`,`username`,`password`,`user_email`,`user_sex`,`user_qq`,`user_tel`,`user_xueli`,`user_hobby`,`user_introduce`,`user_time`,`last_time`) VALUES ('1','IphoneXXX','666','1234567@qq.com','0','978260445','1324567894','3','20163075','2,3','0','12345678')
+

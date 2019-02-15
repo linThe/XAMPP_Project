@@ -1,0 +1,8 @@
+[ 2019-01-07T17:25:22+08:00 ] 127.0.0.1 /shop/index.php/User/register.html
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`username`,`password`,`user_email`,`user_qq`,`user_tel`,`user_sex`,`user_xueli`,`user_introduce`,`user_hobby`) VALUES ('linlin','','','','','1','1','',NULL)
+
+[ 2019-01-07T17:26:12+08:00 ] 127.0.0.1 /shop/index.php/User/register.html
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`username`,`password`,`user_email`,`user_qq`,`user_tel`,`user_sex`,`user_xueli`,`user_introduce`,`user_hobby`) VALUES ('linlin','','','','','1','1','',NULL)
+

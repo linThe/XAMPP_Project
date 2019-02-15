@@ -1,0 +1,54 @@
+[ 2019-01-08T18:33:30+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:34:34+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:35:45+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:36:36+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:36:58+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:37:24+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:38:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:39:06+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:40:02+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:40:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T18:47:39+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T19:24:43+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T19:25:34+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T19:26:03+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T19:27:33+08:00 ] 127.0.0.1 /shop/index.php/Home/User/CSS_URLstyle.css
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2019-01-08T21:50:18+08:00 ] 127.0.0.1 /shop/index.php?__hbt=1546955417664
+ERR: 参数错误或者未定义:arg
+
+[ 2019-01-08T21:51:37+08:00 ] 127.0.0.1 /shop/index.php/arg/test1/arg2/test2
+ERR: 无法加载控制器:Arg
+
+[ 2019-01-08T21:54:50+08:00 ] 127.0.0.1 /shop/index.php/Home/Index/index/arg/test1/arg2/test2
+ERR: 参数错误或者未定义:arg3
+

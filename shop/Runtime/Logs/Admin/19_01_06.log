@@ -1,0 +1,456 @@
+[ 2019-01-06T09:19:06+08:00 ] ::1 /shop/index.php/Admin/Goods/show?s_product_mark=1
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`) VALUES ('56','IphoneX','6666','201')
+
+[ 2019-01-06T09:20:40+08:00 ] ::1 /shop/index.php/Admin/Goods/show?s_product_mark=1
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`) VALUES ('56','IphoneX','6666','201')
+
+[ 2019-01-06T09:20:43+08:00 ] ::1 /shop/index.php/Admin/Goods/show?s_product_mark=1
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`) VALUES ('56','IphoneX','6666','201')
+
+[ 2019-01-06T09:21:14+08:00 ] ::1 /shop/index.php/Admin/Goods/show?s_product_mark=1
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`) VALUES ('IphoneX','6666','201')
+
+[ 2019-01-06T09:25:09+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:31:17+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:31:19+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:31:39+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:33:46+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:33:49+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:33:49+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:34:01+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:34:40+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:35:27+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:35:31+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:35:31+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:08+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:10+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:10+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:10+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:11+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_UIMGRL%20;?%3Emine.css
+ERR: 非法操作:
+
+[ 2019-01-06T09:38:33+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`) VALUES ('IphoneX','6666','201','130')
+
+[ 2019-01-06T09:40:24+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`) VALUES ('IphoneX','6666','201','130')
+
+[ 2019-01-06T09:40:27+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`) VALUES ('IphoneX','6666','201','130')
+
+[ 2019-01-06T09:43:31+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`) VALUES (NULL,'IphoneX','6666','201','130')
+
+[ 2019-01-06T09:43:32+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1364:Field 'abc' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`) VALUES (NULL,'IphoneX','6666','201','130')
+
+[ 2019-01-06T09:48:39+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: Syntax Error in template "D:/phpstudy/PHPTutorial/WWW/shop/Admin/View\Goods\add.html"  on line 22 "{echo $r;}"  - Unexpected ";", expected one of: "}" , " "
+
+[ 2019-01-06T09:49:42+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1062:Duplicate entry '100' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_category_id`,`goods_brand_id`,`goods_introduce`,`abc`) VALUES ('100','IphoneX','6666','201','130','3','31','这怎么就不对了呢？？？？？？','你丫的真的有abc字段')
+
+[ 2019-01-06T10:00:46+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:00:46+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:00:47+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:02:29+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:02:29+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:02:30+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:07:13+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:07:14+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:07:14+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:07:44+08:00 ] ::1 /shop/index.php/Admin/Index/index
+ERR: Syntax Error in template "D:/phpstudy/PHPTutorial/WWW/shop/Admin/View\Index\index.html"  on line 19 "&lt;frame name=head src=&quot;{__CONTROLLER__}/head.html&quot; frameborder=0 noresize scrolling=no&gt;" unknown tag "__CONTROLLER__"
+
+[ 2019-01-06T10:08:01+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:08:02+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:08:02+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:22:32+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:22:32+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:22:32+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:32:26+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:32:27+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:32:27+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2019-01-06T10:51:04+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:51:06+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:51:06+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:07+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:07+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:52:07+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:32+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:32+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:32+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:52:42+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:52:43+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:43+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:58+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:52:58+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:52:59+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:03+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:03+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:04+08:00 ] ::1 /shop/index.php/Admin/Index/admin.css
+ERR: 非法操作:admin.css
+
+[ 2019-01-06T10:55:40+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:40+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:47+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:55:47+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:56:20+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T10:56:20+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2019-01-06T11:14:11+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:17:26+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:20:52+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:27:42+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:27:54+08:00 ] ::1 /shop/index.php/Admin/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2019-01-06T11:32:10+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:37:04+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:40:37+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:40:38+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:56:55+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:56:58+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:57:47+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:57:49+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:57:55+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T11:58:00+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:00:59+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:04:32+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:04:33+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:16:13+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:16:25+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:16:42+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:24:55+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:25:12+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:27:11+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:27:23+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:36:01+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:47:00+08:00 ] ::1 /shop/index.php/Admin/Goods/shop
+ERR: 非法操作:shop
+
+[ 2019-01-06T12:47:04+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:48:35+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:48:59+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T12:52:48+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T12:59:48+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T13:00:41+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T13:01:19+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T13:03:52+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T13:04:11+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T13:04:30+08:00 ] ::1 /shop/index.php/Admin/Goods/update/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T13:41:08+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/update
+ERR: 非法操作:update
+
+[ 2019-01-06T13:47:58+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/update
+ERR: 非法操作:update
+
+[ 2019-01-06T13:48:05+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/right.html
+ERR: 非法操作:right
+
+[ 2019-01-06T15:28:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/right.html
+ERR: 非法操作:right
+
+[ 2019-01-06T15:37:13+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:43:54+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:43:58+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:44:02+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:44:08+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:44:15+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:54:09+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:54:12+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:54:15+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:55:57+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:58:11+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T15:58:19+08:00 ] ::1 /shop/index.php/Admin/Goods/admin.php?c=goods&a=add
+ERR: 非法操作:admin.php
+
+[ 2019-01-06T16:01:49+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:04:13+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:04:22+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:05:00+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:05:23+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:06:42+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:29:39+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:29:50+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1366:Incorrect decimal value: '10M' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`) VALUES ('超级手机1','10M','10','				$this->redirect(add,array(\'name\'=>\'tom\',\'age\'=>\'21\'),3,\"添加成功\");')
+
+[ 2019-01-06T16:30:24+08:00 ] ::1 /shop/index.php/Admin/Goods/add
+ERR: 1366:Incorrect decimal value: '10M' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_weight`,`goods_introduce`) VALUES ('超级手机1','10M','10','超级手机不能加')
+
+[ 2019-01-06T16:34:39+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:45:43+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:53:15+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:53:36+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:54:02+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:54:25+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T16:56:23+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:16:25+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:16:31+08:00 ] ::1 /shop/index.php/Admin/Goods/delete/name/tom/age/21.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2019-01-06T17:17:13+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:18:55+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:21:18+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:22:14+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:22:59+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+
+[ 2019-01-06T17:38:08+08:00 ] ::1 /shop/index.php/Admin/Goods/ADMIN_CSS_UIMGRLmine.css
+ERR: 非法操作:ADMIN_CSS_UIMGRLmine.css
+

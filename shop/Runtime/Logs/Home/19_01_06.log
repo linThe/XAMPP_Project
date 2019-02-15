@@ -1,0 +1,101 @@
+[ 2019-01-06T10:00:34+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:00:35+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:00:35+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:00:57+08:00 ] ::1 /shop/index.php
+ERR: Syntax Error in template "D:/phpstudy/PHPTutorial/WWW/shop/Home/View\Index\index.html"  on line 407 "4：更改{}标记符号，配置'TMPL_ENGINE_CONFIG' =&gt; array{'left_delimiter' =&gt; '你想要的标记','right_delimiter'=&gt;'同上'}"  - Unexpected " => ", expected one of: "}" , " "
+
+[ 2019-01-06T10:02:20+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:02:20+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:02:21+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:08:49+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:08:49+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:08:50+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:10:36+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:10:37+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:10:37+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:11:28+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:11:28+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:11:29+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:22:15+08:00 ] ::1 /shop/index.php/__CONTROLLER__/head.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:22:16+08:00 ] ::1 /shop/index.php/__CONTROLLER__/left.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T10:22:16+08:00 ] ::1 /shop/index.php/__CONTROLLER__/right.html
+ERR: 无法加载控制器:__CONTROLLER__
+
+[ 2019-01-06T17:38:40+08:00 ] ::1 /shop/index.php/Goods/login
+ERR: 非法操作:login
+
+[ 2019-01-06T17:38:50+08:00 ] ::1 /shop/index.php/users/login
+ERR: 无法加载控制器:Users
+
+[ 2019-01-06T17:39:07+08:00 ] ::1 /shop/index.php/Users/login
+ERR: 无法加载控制器:Users
+
+[ 2019-01-06T17:39:53+08:00 ] ::1 /shop/index.php/Users/login
+ERR: 无法加载控制器:Users
+
+[ 2019-01-06T17:39:54+08:00 ] ::1 /shop/index.php/users/login
+ERR: 无法加载控制器:Users
+
+[ 2019-01-06T17:39:55+08:00 ] ::1 /shop/index.php/Goods/login
+ERR: 非法操作:login
+
+[ 2019-01-06T17:43:20+08:00 ] ::1 /shop/index.php/Home/User/index.php?r=user/login
+ERR: 非法操作:index.php
+
+[ 2019-01-06T18:55:57+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`user_hobby`) VALUES (NULL)
+
+[ 2019-01-06T18:57:45+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`user_hobby`) VALUES (NULL)
+
+[ 2019-01-06T18:58:06+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`user_hobby`) VALUES (NULL)
+
+[ 2019-01-06T18:59:52+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`user_hobby`) VALUES (NULL)
+
+[ 2019-01-06T19:12:44+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1048:Column 'user_hobby' cannot be null
+ [ SQL语句 ] : INSERT INTO `sw_user` (`username`,`password`,`user_email`,`user_qq`,`user_tel`,`user_sex`,`user_xueli`,`user_introduce`,`user_hobby`) VALUES ('','','','','','1','1','',NULL)
+
+[ 2019-01-06T19:27:47+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: Think\Controller:create方法不存在！
+

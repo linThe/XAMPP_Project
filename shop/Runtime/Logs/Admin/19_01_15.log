@@ -1,0 +1,4 @@
+[ 2019-01-15T16:27:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1054:Unknown column '$role_auth_ids' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `sw_auth` WHERE ( auth_level = 0 and auth_id =  $role_auth_ids  ) 
+
